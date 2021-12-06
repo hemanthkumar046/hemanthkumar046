@@ -64,32 +64,12 @@ Here are some ideas to get you started:
 
 <p align="left"> 
   &emsp;
-  <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPython_(programming_language)&psig=AOvVaw0mSVMuVnszm0_fkXN3WlfC&ust=1638882456577000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCrvYefz_QCFQAAAAAdAAAAABAD" target="_blank"> 
-     <img alt="Python" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPython_(programming_language)&psig=AOvVaw0mSVMuVnszm0_fkXN3WlfC&ust=1638882456577000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCrvYefz_QCFQAAAAAdAAAAABAD">
+  <a href="hhttps://en.wikipedia.org/wiki/Python_(programming_language)#/media/File:Python-logo-notext.svg" target="_blank"> 
+     <img alt="Python" src="https://en.wikipedia.org/wiki/Python_(programming_language)#/media/File:Python-logo-notext.svg">
    </a>
   &emsp;
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
-  </a>
-</p>
-
-### 👉 Frontend Development
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://reactjs.org/" target="_blank"> React
-    <img alt="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
   </a>
 </p>
 
@@ -100,12 +80,7 @@ Here are some ideas to get you started:
   &emsp;
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
   &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
-  &emsp;
-    <a href="https://closte.com/" style="background-color:white"><img alt="Closte" height="25px" width="50px" src="https://closte.com/wp-content/uploads/2017/07/logo-4A5960.svg"></a>  
-  &emsp;
-    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
- </p>
+  </p>
 
  ### 👉 Software & Tools
  
