@@ -64,8 +64,8 @@ Here are some ideas to get you started:
 
 <p align="left"> 
   &emsp;
-  <a href="hhttps://en.wikipedia.org/wiki/Python_(programming_language)#/media/File:Python-logo-notext.svg" target="_blank"> 
-     <img alt="Python" src="https://en.wikipedia.org/wiki/Python_(programming_language)#/media/File:Python-logo-notext.svg">
+  <a href="https://zolanvari.com/wp-content/uploads/2020/03/python.jpeg" target="_blank"> 
+     <img alt="Python" src="https://zolanvari.com/wp-content/uploads/2020/03/python.jpeg">
    </a>
   &emsp;
   <a href="https://www.php.net/">
