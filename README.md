@@ -30,16 +30,16 @@ Here are some ideas to get you started:
 <h3 align="center">2 years of experience in Hadoop Administration and Development.</h3>
 <p align="center">
 <a href="https://www.hackerrank.com/hemanthkumar046" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_hemanth_kumar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muhammad-faizan-haidar-963161150/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_muhammad_faizan_haidar" height="30" width="40" /></a>  
-<a href="https://www.instagram.com/muhammad_faizan_haidar/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_muhammad_faizan_haidar" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100004267392010" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_muhammad_faizan_haidar" height="30" width="40" /></a>
- <a href = "mailto: faizanhaider594@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hemanth-kumar-a6538910b/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_hemanth_kumar" height="30" width="40" /></a>  
+<a href="https://www.instagram.com/hemanth_pat/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_hemanth_kumar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/hemanthkumar046/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_hemanth_kumar" height="30" width="40" /></a>
+ <a href = "mailto: hemanthkumar046@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 
 <p align="center">
   <em>
-    Hello, I am Muhammad Faizan Haidar a <b>2018</b> undergraduate from <a href="https://qau.edu.pk/"> <b>Quaid-i-Azam University</b>, Pakistan Islamabad (" Quaidian Once Quaidian Forever ")</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>WordPress Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    Hello, I am Vatti Hemanth Kumar <b>2018</b> currently pursuing Masters of Technology in Data Science and Machine Learning from <a href="https://qau.edu.pk/"> <b>PES University</b>, Bengaluru, India </a>. <br>
+    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Data Science Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>development</b> and always looking to find new solutions for <b> plugins/themes </b> to learn and develop. 
   </em> 
   <br>
@@ -53,16 +53,10 @@ Here are some ideas to get you started:
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently Developing a Gutenberg Block Plugin **Html, CSS, React.js,Js & Php language**<br>
-✔ I’m currently learning about **React**🥰<br>
-✔ An open source contributor. Please find my free plugin on 
-  **wordpress.org <a href="https://wordpress.org/plugins/attendance-management-for-lifterlms/">Attendance Managment &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For LifterLMS</a>**<br>
-✔ A continuous language transaltion contributor 
-  **<a href="https://profiles.wordpress.org/muhammadfaizanhaidar/#content-translations">Translations</a>** <br>
-✔ I’m looking to collaborate with any **Open - WordPress Plugins Projects**<br>
-✔ Ask me anything you want, If I am there I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it stores in my brain* 😎<br><br><br><br>
+✔ Callme: **Team Worker** 😊 <br>
+✔ I’m currently learning about **Data Science and application of its techniques**🥰<br>
+✔ I’m looking to collaborate with any **Open - Data Science Projects**<br>
+✔ Fun fact : **I Always try to learn something new and then sleep till it stores in my brain** 😎<br><br><br><br>
 
 ## 🛠️ My Skills
 
@@ -70,8 +64,8 @@ Here are some ideas to get you started:
 
 <p align="left"> 
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+  <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPython_(programming_language)&psig=AOvVaw0mSVMuVnszm0_fkXN3WlfC&ust=1638882456577000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCrvYefz_QCFQAAAAAdAAAAABAD" target="_blank"> 
+     <img alt="Python" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
   &emsp;
   <a href="https://www.php.net/">
