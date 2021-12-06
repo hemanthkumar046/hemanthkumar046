@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fartificial-intelligence&psig=AOvVaw0Z1JRgE4cOlEhnVC5mMjd_&ust=1638881919864000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDcqoedz_QCFQAAAAAdAAAAABAJ" height="200"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fartificial-intelligence&psig=AOvVaw0Z1JRgE4cOlEhnVC5mMjd_&ust=1638881919864000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDcqoedz_QCFQAAAAAdAAAAABAJ" height="100"/>
 </p>
 <br>
 
