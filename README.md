@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://www.google.com/search?q=AI+images&client=firefox-b-d&sxsrf=AOaemvLImUZsCxcdc1XllsBrwNxJ9gxz_A:1638795515770&tbm=isch&source=iu&ictx=1&fir=WisEJTAPoBXPFM%252CTTxDCXT9yP6zNM%252C_%253B3rv5LXhSckwsiM%252CTTxDCXT9yP6zNM%252C_%253BYRsHxswelXA-sM%252CHJcKMLk7JiCIvM%252C_%253BNl9_Haf9plVJ6M%252CIElOTaDb4jIt7M%252C_%253BwPaAjmMWrn2MEM%252CHJcKMLk7JiCIvM%252C_%253Bg6lggia-TjmKrM%252CBCOVp4MlJAQ3pM%252C_%253BifuiWjaGDH0QWM%252C_gYW2bwWnBrJ0M%252C_%253BlWgiYrhNCHMGNM%252CHJcKMLk7JiCIvM%252C_%253B6iGjQkU8t7264M%252CPmp4SqlcCCrmVM%252C_%253B2Z96z2lNX9WUyM%252CUKmUOVQVoyYyoM%252C_%253B9Q_bVaBmjJoDpM%252ClvQk2G4MfS2gDM%252C_%253BuvWb3BSiKuseYM%252Cyvpd56DLAeU3MM%252C_&vet=1&usg=AI4_-kTnxCT71fejnogvDOXmuxmN_lXwAw&sa=X&ved=2ahUKEwiNlM6Enc_0AhU94zgGHZUIB1AQ9QF6BAghEAE#imgrc=3rv5LXhSckwsiM" height="200"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fartificial-intelligence&psig=AOvVaw0Z1JRgE4cOlEhnVC5mMjd_&ust=1638881919864000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDcqoedz_QCFQAAAAAdAAAAABAJ" height="200"/>
 </p>
 <br>
 
