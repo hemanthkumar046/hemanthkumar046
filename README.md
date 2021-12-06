@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 <p align="left"> 
   &emsp;
   <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPython_(programming_language)&psig=AOvVaw0mSVMuVnszm0_fkXN3WlfC&ust=1638882456577000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCrvYefz_QCFQAAAAAdAAAAABAD" target="_blank"> 
-     <img alt="Python" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+     <img alt="Python" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPython_(programming_language)&psig=AOvVaw0mSVMuVnszm0_fkXN3WlfC&ust=1638882456577000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCrvYefz_QCFQAAAAAdAAAAABAD">
    </a>
   &emsp;
   <a href="https://www.php.net/">
