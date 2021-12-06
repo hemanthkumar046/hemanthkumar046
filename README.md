@@ -22,8 +22,8 @@ Here are some ideas to get you started:
  </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-25-blue" />
-  <img src="https://img.shields.io/badge/Focus-WordPress-brightgreen" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Urdu-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Machine Learning and Deep Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi%20%26%20Telugu-brightgreen" />
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Vatti Hemanth Kumar </h1>
