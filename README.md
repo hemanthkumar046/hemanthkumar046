@@ -29,10 +29,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Vatti Hemanth Kumar </h1>
 <h3 align="center">2 years of experience in Hadoop Administration and Development.</h3>
 <p align="center">
-<a href="https://profiles.wordpress.org/muhammadfaizanhaidar/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="muhammad_faizan_haidar" height="30" width="40" /></a>
-<a href="https://www.upwork.com/freelancers/~01c9487f998e65bbee" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" alt="up_muhammad_faizan_haidar" height="30" width="40" /></a>
-<a href="fiverr.com/users/faizanhaider570/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg" alt="fiv_muhammad_faizan_haidar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/faizanhaider594" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_muhammad_faizan_haidar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hemanthkumar046" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_hemanth_kumar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/muhammad-faizan-haidar-963161150/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_muhammad_faizan_haidar" height="30" width="40" /></a>  
 <a href="https://www.instagram.com/muhammad_faizan_haidar/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_muhammad_faizan_haidar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100004267392010" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_muhammad_faizan_haidar" height="30" width="40" /></a>
