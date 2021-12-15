@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=algolia" alt="hemanthkumar046"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthkumar046&theme=algolia" alt="hemanthkumar046"  /></p>
 
 <hr>
 <p align="center">
