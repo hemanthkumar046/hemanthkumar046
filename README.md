@@ -82,7 +82,8 @@
 ---
 
 📫 **How to reach me:**  
-- LinkedIn: [Hemanth Kumar Vatti](https://www.linkedin.com/in/hemanth-kumar-vatti/)  
-- Email: **hemanth.v@jobstechmail.com**
+- 📞 Phone: **+1 (330) 554-6167**  
+- 🔗 LinkedIn: [Hemanth Kumar Vatti](https://www.linkedin.com/in/hemanth-kumar-vatti/)  
+- ✉️ Email: **hemanth.v@jobstechmail.com**
 
 ---
