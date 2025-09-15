@@ -3,7 +3,7 @@
 -->
 
 <p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200" width="200"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*7jRD5QhgARucFKvRHFxpOg.png" height="200" width="200"/>
 </p>
 <br>
 
