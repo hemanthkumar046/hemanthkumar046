@@ -3,7 +3,7 @@
 -->
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*7jRD5QhgARucFKvRHFxpOg.png" height="200" width="200"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" height="200" width="200"/>
 </p>
 <br>
 
@@ -25,8 +25,12 @@
 
 <p align="center">
 <a href="https://www.hackerrank.com/hemanthkumar046" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/hemanth-kumar-vatti/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" height="30" width="40" /></a>  
-<a href="https://www.instagram.com/hemanth_pat/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hemanth-kumar-vatti/" target="blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/hemanth_pat/" target="blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="30" width="40" />
+</a>
 <a href="https://www.facebook.com/hemanthkumar046/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" height="30" width="40" /></a>
 <a href="mailto:hemanth.v@jobstechmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
